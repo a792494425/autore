@@ -48,7 +48,7 @@ def get_verification_code(phone_number, process_id, sid="87264"):
     """
     # API信息
     api_url = "https://api.haozhuma.cn/sms/"
-    token = "12979f4ebab7cfff72c6f716a31256b673a61cb5eb74b6f000d82cbd5c1d833f7ce230aa25526a061c921eed962625876572a81c2e15f0b4a7b497091f5fb39ce355c9f42ef1ba7f5c8bf129a16585b7"
+    token = ""
     
     # 构建请求参数
     params = {
